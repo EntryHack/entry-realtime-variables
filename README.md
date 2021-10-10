@@ -1,5 +1,7 @@
 # entry-cloud-variables
 
+[NPM에서 보기](https://www.npmjs.com/package/entry-cloud-variables)
+
 엔트리 실시간 변수/리스트를 JS/TS로 마음껏 다뤄보세요.
 
 ```ts
