@@ -6,7 +6,7 @@
     "start": "ts-node -r tsconfig-paths/register --files src/index.ts",
     "dev": "nodemon --exec ts-node -r tsconfig-paths/register --files src/index.ts"
   },
-  "repository": "https://github.com/EntryHack/entry-cloud-variables.git",
+  "repository": "https://github.com/EntryHack/entry-cloud.git",
   "author": "thoratica <me@tica.fun>",
   "license": "MIT",
   "devDependencies": {
